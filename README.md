@@ -4,28 +4,9 @@ Welcome to the **Score-Based Generative Modeling on MNIST** project! This reposi
 - **Multiple Noise Perturbation**
 - **Stochastic Differential Equation (SDE) Approach**
 
-Both techniques have been used to generate hand-written digit images, and detailed video demonstrations are provided for each method.
+Both techniques have been used to generate hand-written digit images of Number 3, and detailed video demonstrations are provided for each method.
 
-![MNIST Generative Model](./assets/banner.png)
-
----
-
-## Table of Contents
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Training](#training)
-  - [Image Generation](#image-generation)
-- [Video Demonstrations](#video-demonstrations)
-- [Method Details](#method-details)
-  - [Multiple Noise Perturbation](#multiple-noise-perturbation)
-  - [SDE Approach](#sde-approach)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
----
+![MNIST Generative Model](./assets/smld.png)
 
 ## Overview
 
@@ -39,6 +20,18 @@ Each of these approaches is accompanied by a video demonstration that illustrate
 
 ---
 
-## Project Structure
+## Video Demonstrations
 
-Below is an overview of the repository layout:
+### Multiple Noise Perturbation (MNP) Approach
+
+<video width="640" height="360" controls>
+  <source src="assets/MNP.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### SDE Approach
+
+<video width="640" height="360" controls>
+  <source src="assets/SDE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
