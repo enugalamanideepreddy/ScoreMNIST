@@ -25,13 +25,13 @@ Each of these approaches is accompanied by a video demonstration that illustrate
 ### Multiple Noise Perturbation (MNP) Approach
 
 <video width="640" height="360" controls>
-  <source src="assets/MNP.mp4" type="video/mp4">
+  <source src="./assets/MNP.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ### SDE Approach
 
 <video width="640" height="360" controls>
-  <source src="assets/SDE.mp4" type="video/mp4">
+  <source src="./assets/SDE.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
