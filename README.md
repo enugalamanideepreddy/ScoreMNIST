@@ -6,7 +6,7 @@ Welcome to the **Score-Based Generative Modeling on MNIST** project! This reposi
 
 Both techniques have been used to generate hand-written digit images of Number 3, and detailed video demonstrations are provided for each method.
 
-![MNIST Generative Model](./assets/smld.png)
+![MNIST Generative Model](./assets/smld.jpg)
 
 ## Overview
 
