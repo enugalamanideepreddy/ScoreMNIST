@@ -35,3 +35,6 @@ Each of these approaches is accompanied by a video demonstration that illustrate
   <source src="./assets/SDE.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+- ![Multiple Noise Perturbation Video](assets/MNP.mp4)
+- ![SDE Approach Video](assets/SDE.mp4)
